@@ -1,21 +1,11 @@
-melonJS boilerplate
+melon-test
 -------------------------------------------------------------------------------
-
-features :
-- video autoscaling
-- mobile optimized HTML/CSS
-- swiping disabled on iOS devices
-- debug Panel (if #debug)
-- default icons
-- distribution build
-- standalone build for desktop operating systems
-- optional ES5 shim for non ES5 compliant browser (see index.html)
 
 ## To run distribution
 
 To build, be sure you have [node](http://nodejs.org) installed. Clone the project:
 
-    git clone https://github.com/melonjs/boilerplate.git
+    git clone https://github.com/jlbeard84/melon-test.git
 
 Then in the cloned directory, simply run:
 
